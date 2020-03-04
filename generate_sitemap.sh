@@ -27,7 +27,7 @@ do
 done
 
 # --- configurables ---
-max_sitemap_size=${max_sitemap_size:-100000}
+max_sitemap_size=${max_sitemap_size:-49000}
 sitemap_filepath=${sitemap_filepath:-"https://example.com/"}
 sitemap_prefix=${sitemap_prefix:-"sitemap-"}
 sitemapindex_filename=${sitemapindex_filename:-"sitemap.xml"}
